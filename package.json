@@ -1,0 +1,12 @@
+{
+  "name": "studymate-bdd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cucumber.js project for Study Mate exercises: tutorial + calculadora.feature",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.0"
+  }
+}
